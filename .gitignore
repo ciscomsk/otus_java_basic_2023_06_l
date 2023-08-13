@@ -1,0 +1,5 @@
+# IDEA specific
+.idea/
+
+# Build specific
+target/
